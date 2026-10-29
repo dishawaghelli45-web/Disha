@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Disha!
 
-### 🎓 ACCP ADSE Student at Aptech
+### 🎓 ACCP AI Student at Aptech
 ### 💻 Aspiring Web Developer
 
 <p>
